@@ -42,4 +42,4 @@ We encourage contributions! Whether it's improving the guides, adding new analys
 
 ## Contact
 
-Have questions or suggestions? Feel free to [open an issue](link-to-github-issues) or contact us directly at [your-email].
+Have questions or suggestions? Feel free to [open an issue](link-toissues-github-) or contact us directly at itaybd at gmail dot com .
