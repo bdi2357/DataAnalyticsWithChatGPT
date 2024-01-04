@@ -32,7 +32,7 @@ ChatGPT 4, with its advanced capabilities in understanding and generating human-
 Here are some visualizations from our notebooks:
 
 ![Sample Visualization 1](tenure_vs_churn.png)
-![Sample Visualization 2](link-to-image)
+![Sample Visualization 2](Churn Rate by Tenure Group.png)
 
 *Note: These visualizations are interactive in the Jupyter notebooks.*
 
