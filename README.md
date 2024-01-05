@@ -42,4 +42,4 @@ We encourage contributions! Whether it's improving the guides, adding new analys
 
 ## Contact
 
-Have questions or suggestions? Feel free to [open an issue](https://github.com/bdi2357/DataAnalyticsWithChatGPT/tree/main/.github) or contact us directly at itaybd at gmail dot com .
+Have questions or suggestions? Feel free to [open an issue](https://github.com/bdi2357/DataAnalyticsWithChatGPT/tree/main/.github/ISSUE_TEMPLATE) or contact us directly at itaybd at gmail dot com .
